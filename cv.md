@@ -11,7 +11,6 @@
  I want to find a place where I can apply my skills and knowledge for continuous improvement.
  
  
- 
 ## Education
 
 ### Sep 2006 - jul 2010
@@ -54,4 +53,3 @@ Graduate School of the National Academy of Sciences of Belarus, Minsk
 #### Pre-intermediate level
 > Improving the professional communication of workers and specialists in English
           
-        
