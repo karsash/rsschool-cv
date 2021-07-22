@@ -20,12 +20,9 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 	vertical-align: baseline;
 }
 
-
 .clear {
 	clear:both;
 }
-
-
 
 body {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
@@ -44,21 +41,12 @@ header {
 main {
 	width:969px;
 	margin:0 auto;
-	margin-top:30px;
 }
 
 .education {
 	width:828px;
 	margin:0 auto;
 	background-color: #fff;
-}
-
-section {
-	width:720px;
-	display: block;
-	padding-top:55px;
-	clear: both;
-	margin-left:4px;
 }
 
 .entry {
@@ -162,9 +150,8 @@ ul.skills li {
 }
 
 img.photo {
-	background-repeat: no-repeat;
-	width:120px;
-	height:140px;
+	width:150px;
+	height:170px;
 	padding:20px 10px 10px 35px;
 	float:left;
 }
@@ -182,16 +169,12 @@ img.photo {
 }
 
 .contact ul li {
-	background-repeat: no-repeat;
 	padding-left:26px;
 	background-position: 0.1em;
 	height:25px;
 	display:block;
 	margin-top:-2px;
 }
-
-
-
 
 footer{
 	width:828px;
@@ -211,7 +194,7 @@ footer{
 .git_profile{
 	width:85px;
 	height:85px;
-	margin: 10px 0px 0px 70px;
+	margin: 10px 0 0 70px;
 	
 }
 
